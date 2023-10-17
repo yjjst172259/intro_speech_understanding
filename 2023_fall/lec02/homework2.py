@@ -1,5 +1,5 @@
 
-a = None
+a = "This is a python string"
 b = None
 c = None
 name1 = None
