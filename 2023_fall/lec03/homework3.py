@@ -7,7 +7,7 @@ def cancellation(list, stop_word):
     and return what you have so far.
     '''
     output_list = []
-    for item in input_list:
+    for item in list:
         if item == stop_word:
             break
         output_list.append(item)
